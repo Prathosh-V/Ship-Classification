@@ -2,7 +2,7 @@
 L&T EduTech Hackathon - Shaastra 2023  
   
 Team Name : Bias   
-Team Members : <a href="https://github.com/Prathosh-V">@Prathosh-V</a>,<a href="https://github.com/Surya-29">@Surya-29</a>  
+Team Members : <a href="https://github.com/Prathosh-V">Prathosh-V</a>,<a href="https://github.com/Surya-29">Surya-29</a>  
   
 PS3:  
 
