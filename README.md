@@ -23,3 +23,7 @@ The Dataset is splitted into 70% train data , 20% validation data and 10% test d
 - After 25 epochs, we attain an __accuracy__ of approx~ __95%-96%__.  
 - Also the __Kappa Score__ for the model after training it on 70% train dataset is    
   - <b>Kappa Score : 0.9425842335938575</b>
+
+Final Round Demo:
+
+<video src="https://raw.githubusercontent.com/Surya-29/Ship-Classification/main/video_stream.mp4"></video>
