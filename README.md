@@ -26,4 +26,4 @@ The Dataset is splitted into 70% train data , 20% validation data and 10% test d
 
 Final Round Demo:
 
-<video src="https://raw.githubusercontent.com/Surya-29/Ship-Classification/main/video_stream.mp4"></video>
+https://raw.githubusercontent.com/Surya-29/Ship-Classification/main/video_stream.mp4
