@@ -17,7 +17,7 @@ Use open source dataset (From the link: https://cutt.ly/PS_3_dataset)
 
 ## Approach & Results:
 
-By using a pretrained Xception model, with the top layers of the base model being replaced by a GlobalAveragePooling2D layer and a Dense layer with 5 outputs nodes to classify the input image into five different categories.
+By levaraging the concept of Transfer learning, a pretrained Xception model, with the top layers of the base model being replaced by a GlobalAveragePooling2D layer and a Dense layer with 5 outputs nodes to classify the input image into five different categories.
   
 The Dataset is splitted into 70% train data , 20% validation data and 10% test data for optimal training.  
 - After 25 epochs, we attain an __accuracy__ of approx~ __95%-96%__.  
